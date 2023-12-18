@@ -1,0 +1,7 @@
+[tasks.build-zola]
+command = "zola"
+args = ["build"]
+
+[tasks.update-pages]
+command = "git"
+args = ["subtree", "push", "--prefix", "public", "origin", "gh-pages"]
