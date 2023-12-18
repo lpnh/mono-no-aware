@@ -2,7 +2,7 @@
 base_url = "https://lpnh.io/blog"
 
 # The site title and description; used in feeds by default.
-title = "lpnh | blog"
+title = "blog"
 description = ""
 
 # The default language; used in feeds.
