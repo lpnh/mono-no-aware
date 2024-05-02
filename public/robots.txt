@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://lpnh.io/mono-no-aware/sitemap.xml
