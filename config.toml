@@ -36,4 +36,4 @@ logo_text = "物の哀れ"
 
 # Copyright text in HTML format. If specified,
 # entirely replaces default copyright and author.
-copyright_html = "<a href='https://github.com/lpnh' style='text-decoration:none' target='_blank'>github.com/lpnh</a>"
+# copyright_html = "lpnh"
